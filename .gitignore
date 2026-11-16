@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+/Document_2026-11-16_194359.jpg

@@ -1,0 +1,19 @@
+{
+  "name": "yourhandwritingfont",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  },
+  "devDependencies": {
+    "@types/opentype.js": "^1.3.8",
+    "typescript": "^5.8.3",
+    "vite": "^6.2.0"
+  }
+}
